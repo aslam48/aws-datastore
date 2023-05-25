@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aslamdatastore-dev-92547-authRole",
+      "UnauthRoleArn": "arn:aws:iam::964656100752:role/amplify-aslamdatastore-dev-92547-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::964656100752:role/amplify-aslamdatastore-dev-92547-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-aslamdatastore-dev-92547-deployment",
+      "UnauthRoleName": "amplify-aslamdatastore-dev-92547-unauthRole",
+      "StackName": "amplify-aslamdatastore-dev-92547",
+      "StackId": "arn:aws:cloudformation:eu-west-1:964656100752:stack/amplify-aslamdatastore-dev-92547/99ab1ae0-f09e-11ed-ad7a-06611ef43187",
+      "AmplifyAppId": "d2wwhge0knrnlt"
+    },
+    "categories": {
+      "api": {
+        "aslamdatastore": {}
+      },
+      "auth": {
+        "aslamdatastore4bebf2a0": {}
+      }
+    }
+  }
+}
